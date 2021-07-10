@@ -9,7 +9,7 @@ public class teste {
     }
 
     public static int fatorial(int numero){
-        if(numero == 0) {
+        if(numero == 1) {
             return numero;
         }return numero*fatorial(numero--);
     }

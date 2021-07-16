@@ -1,6 +1,6 @@
 import java.util.function.Consumer;
 
-public class teste {
+public class Consume {
 
     public static void main(String[] args) {
 
